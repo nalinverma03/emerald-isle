@@ -1,0 +1,13 @@
+/Users/nalinverma/college/year4/computer-graphics/emerald-isle/build/CMakeFiles/emerald-isle.dir
+/Users/nalinverma/college/year4/computer-graphics/emerald-isle/build/CMakeFiles/edit_cache.dir
+/Users/nalinverma/college/year4/computer-graphics/emerald-isle/build/CMakeFiles/rebuild_cache.dir
+/Users/nalinverma/college/year4/computer-graphics/emerald-isle/build/external/CMakeFiles/edit_cache.dir
+/Users/nalinverma/college/year4/computer-graphics/emerald-isle/build/external/CMakeFiles/rebuild_cache.dir
+/Users/nalinverma/college/year4/computer-graphics/emerald-isle/build/external/glad-3.3/CMakeFiles/glad.dir
+/Users/nalinverma/college/year4/computer-graphics/emerald-isle/build/external/glad-3.3/CMakeFiles/edit_cache.dir
+/Users/nalinverma/college/year4/computer-graphics/emerald-isle/build/external/glad-3.3/CMakeFiles/rebuild_cache.dir
+/Users/nalinverma/college/year4/computer-graphics/emerald-isle/build/external/glfw-3.1.2/CMakeFiles/edit_cache.dir
+/Users/nalinverma/college/year4/computer-graphics/emerald-isle/build/external/glfw-3.1.2/CMakeFiles/rebuild_cache.dir
+/Users/nalinverma/college/year4/computer-graphics/emerald-isle/build/external/glfw-3.1.2/src/CMakeFiles/glfw.dir
+/Users/nalinverma/college/year4/computer-graphics/emerald-isle/build/external/glfw-3.1.2/src/CMakeFiles/edit_cache.dir
+/Users/nalinverma/college/year4/computer-graphics/emerald-isle/build/external/glfw-3.1.2/src/CMakeFiles/rebuild_cache.dir
