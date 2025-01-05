@@ -1071,4 +1071,7 @@ CMakeFiles/emerald-isle.dir/emerald-isle/emerald-isle.cpp.o: \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/map \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__tree \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/fstream \
-  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/sstream
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/sstream \
+  /Users/nalinverma/college/year4/computer-graphics/emerald-isle/emerald-isle/shader.h \
+  /Users/nalinverma/college/year4/computer-graphics/emerald-isle/emerald-isle/camera.h \
+  /Users/nalinverma/college/year4/computer-graphics/emerald-isle/emerald-isle/perlin.h

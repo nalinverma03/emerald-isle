@@ -954,6 +954,9 @@ CMakeFiles/emerald-isle.dir/emerald-isle/emerald-isle.cpp.o: /Users/nalinverma/c
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include/stdarg.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include/stdint.h \
+  /Users/nalinverma/college/year4/computer-graphics/emerald-isle/emerald-isle/camera.h \
+  /Users/nalinverma/college/year4/computer-graphics/emerald-isle/emerald-isle/perlin.h \
+  /Users/nalinverma/college/year4/computer-graphics/emerald-isle/emerald-isle/shader.h \
   /Users/nalinverma/college/year4/computer-graphics/emerald-isle/external/glad-3.3/include/KHR/khrplatform.h \
   /Users/nalinverma/college/year4/computer-graphics/emerald-isle/external/glad-3.3/include/glad/gl.h \
   /Users/nalinverma/college/year4/computer-graphics/emerald-isle/external/glfw-3.1.2/include/GLFW/glfw3.h \
@@ -1177,6 +1180,12 @@ CMakeFiles/emerald-isle.dir/emerald-isle/emerald-isle.cpp.o: /Users/nalinverma/c
 /Users/nalinverma/college/year4/computer-graphics/emerald-isle/external/glfw-3.1.2/include/GLFW/glfw3.h:
 
 /Users/nalinverma/college/year4/computer-graphics/emerald-isle/external/glad-3.3/include/KHR/khrplatform.h:
+
+/Users/nalinverma/college/year4/computer-graphics/emerald-isle/emerald-isle/shader.h:
+
+/Users/nalinverma/college/year4/computer-graphics/emerald-isle/emerald-isle/perlin.h:
+
+/Users/nalinverma/college/year4/computer-graphics/emerald-isle/emerald-isle/camera.h:
 
 /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include/float.h:
 
