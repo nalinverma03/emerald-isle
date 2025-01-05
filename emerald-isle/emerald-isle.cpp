@@ -1,19 +1,19 @@
-// GLFW is a modern library that provides simple APIs for creating a window 
-// for OpenGL use and for receiving keyboard and mouse events. 
-// Alternatives: GLUT, FreeGLUT. 
+#include <cmath>
+#include <string>
+#include <random>
+#include <iostream>
+#include <math.h>
+#include <cstdlib>
+#include <filesystem>
 
+#include <glad/gl.h>
 #include <GLFW/glfw3.h>
-
-// GLM is a header-only C++ mathematics library for OpenGL
-// This library provides data types such as vec3 and mat4 that are useful
-// for our transformations. 
-// Alternatives: Eigen. 
-// Or you can just reimplement your own vec3, mat4, dot product, cross product, etc.
 #include <glm/glm.hpp>
 #include <glm/gtc/matrix_transform.hpp>
+#include <glm/gtc/type_ptr.hpp>
 
-#include <vector>
-#include <iostream>
+#define TINYOBJLOADER_IMPLEMENTATION
+#include "tiny/tiny_obj_loader.h"
 
 GLFWwindow *window;
 
@@ -34,7 +34,7 @@ int main(void)
 	glfwWindowHint(GLFW_OPENGL_PROFILE, GLFW_OPENGL_CORE_PROFILE);
 
 	// Open a window and create its OpenGL context
-	window = glfwCreateWindow(1024, 768, "Lab 1", NULL, NULL);
+	window = glfwCreateWindow(1024, 768, "Emerald Isle", NULL, NULL);
 	if (window == NULL)
 	{
 		std::cerr << "Failed to open a GLFW window." << std::endl;
@@ -48,11 +48,11 @@ int main(void)
 	glfwSetKeyCallback(window, key_callback);
 
 	// Dark blue background
-	glClearColor(0.2f, 0.2f, 0.25f, 0.0f);
+//	glClearColor(0.2f, 0.2f, 0.25f, 0.0f);
 
 	do
 	{
-		glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
+//		glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
 
 		// Swap buffers
 		glfwSwapBuffers(window);

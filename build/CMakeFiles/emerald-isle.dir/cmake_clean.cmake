@@ -1,8 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/emerald-isle.dir/emerald-isle/emerald-isle.cpp.o"
   "CMakeFiles/emerald-isle.dir/emerald-isle/emerald-isle.cpp.o.d"
-  "CMakeFiles/emerald-isle.dir/emerald-isle/render/shader.cpp.o"
-  "CMakeFiles/emerald-isle.dir/emerald-isle/render/shader.cpp.o.d"
   "emerald-isle"
   "emerald-isle.pdb"
 )
